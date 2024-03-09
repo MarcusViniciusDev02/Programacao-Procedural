@@ -1,0 +1,14 @@
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\bin\Debug\net8.0\exercicio01.exe
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\bin\Debug\net8.0\exercicio01.deps.json
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\bin\Debug\net8.0\exercicio01.runtimeconfig.json
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\bin\Debug\net8.0\exercicio01.dll
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\bin\Debug\net8.0\exercicio01.pdb
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\obj\Debug\net8.0\exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\obj\Debug\net8.0\exercicio01.AssemblyInfoInputs.cache
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\obj\Debug\net8.0\exercicio01.AssemblyInfo.cs
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\obj\Debug\net8.0\exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\obj\Debug\net8.0\exercicio01.dll
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\obj\Debug\net8.0\refint\exercicio01.dll
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\obj\Debug\net8.0\exercicio01.pdb
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\obj\Debug\net8.0\exercicio01.genruntimeconfig.cache
+C:\Users\Vinicius\documents\programando-seu-futuro\aula6\exercicios-aula-06\exercicio01\obj\Debug\net8.0\ref\exercicio01.dll
