@@ -6,31 +6,31 @@ class Program
     {
 
         Tabuleiro.InicializaTabuleiro();
-
-        for (int linha0 = 0; linha0 < 8; linha0++)
+        for (int linha = 0; linha < 8; linha++)
         {
-            Tabuleiro.Adicionar(linha0, 0, "S");
-
-            for (int linha7 = 7; linha7 >= 0; linha7--)
+            Tabuleiro.Adicionar(linha, 0, "s");
+            for (int linhaRegressiva = 7; linhaRegressiva >= 0; linhaRegressiva--)
             {
-                Tabuleiro.Adicionar(linha7, 7, "S");
-                
+                Tabuleiro.Adicionar(linha, 7, "s");
+
+                for (int coluna = 0; coluna < 8; coluna++)
+                {
+                    Tabuleiro.Adicionar(0, coluna, "s");
+
+                    for (int colunaRegressiva = 7; colunaRegressiva >= 0; colunaRegressiva--)
+                    {
+                        Tabuleiro.Adicionar(7, colunaRegressiva, "s");
+
+                    }
+                }
             }
 
-            
-        }
-        for (int coluna1 = 0; coluna1 < 8; coluna1++)
-        {
-            Tabuleiro.Adicionar(0, coluna1, "S");
 
-            for (int coluna7 = 7; coluna7 >= 0; coluna7--)
-            {
-                Tabuleiro.Adicionar( 7, coluna7, "S");
-                
-            }
-
-            
         }
+
+
+
+
         Tabuleiro.ImprimeTabuleiro();
     }
 }
