@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista3\\exercicio03\\exercicio03.csproj": {}
+    "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista4\\exercicio1\\exercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista3\\exercicio03\\exercicio03.csproj": {
+    "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista4\\exercicio1\\exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista3\\exercicio03\\exercicio03.csproj",
-        "projectName": "exercicio03",
-        "projectPath": "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista3\\exercicio03\\exercicio03.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista4\\exercicio1\\exercicio1.csproj",
+        "projectName": "exercicio1",
+        "projectPath": "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista4\\exercicio1\\exercicio1.csproj",
         "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista3\\exercicio03\\obj\\",
+        "outputPath": "C:\\Users\\Vinicius\\Documents\\Programacao-Procedural\\listas\\lista4\\exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
