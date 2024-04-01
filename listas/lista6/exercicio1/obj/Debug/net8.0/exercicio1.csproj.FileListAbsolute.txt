@@ -1,0 +1,14 @@
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\bin\Debug\net8.0\exercicio1.exe
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\bin\Debug\net8.0\exercicio1.deps.json
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\bin\Debug\net8.0\exercicio1.runtimeconfig.json
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\bin\Debug\net8.0\exercicio1.dll
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\bin\Debug\net8.0\exercicio1.pdb
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\obj\Debug\net8.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\obj\Debug\net8.0\exercicio1.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\obj\Debug\net8.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\obj\Debug\net8.0\exercicio1.dll
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\obj\Debug\net8.0\refint\exercicio1.dll
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\obj\Debug\net8.0\exercicio1.pdb
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\obj\Debug\net8.0\exercicio1.genruntimeconfig.cache
+C:\Users\Marcus\Desktop\Programacao-Procedural\listas\lista6\exercicio1\obj\Debug\net8.0\ref\exercicio1.dll
